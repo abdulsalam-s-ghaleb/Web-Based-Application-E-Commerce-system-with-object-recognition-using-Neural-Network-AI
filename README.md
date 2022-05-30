@@ -8,7 +8,7 @@ https://drive.google.com/drive/folders/19vSLAS2BBnmZpbSP4K_YZBtre9iCKKh0?usp=sha
 * Website's product list interface
 ![image](https://user-images.githubusercontent.com/106274945/170968815-e87ce179-a831-45d7-bf3b-e19dcab580b7.png)
 * Website's product list interface – sort
-![image](https://user-images.githubusercontent.com/106274945/170968887-f108bc2e-7bd8-4e65-b121-0e83e1bc61e5.png)
+<br>![image](https://user-images.githubusercontent.com/106274945/170968887-f108bc2e-7bd8-4e65-b121-0e83e1bc61e5.png)
 * Website's product list interface – search by uploading the image
 ![image](https://user-images.githubusercontent.com/106274945/170969010-ee740d50-476f-40f9-956b-c1b2c86ac2ca.png)
 * Website's product details
@@ -44,7 +44,7 @@ https://drive.google.com/drive/folders/19vSLAS2BBnmZpbSP4K_YZBtre9iCKKh0?usp=sha
 * Website's my account interface – address – add and edit
 ![image](https://user-images.githubusercontent.com/106274945/170971315-0915e2f3-f175-43c5-bb74-d639e58be811.png)
 * Website's payment portal
-![image](https://user-images.githubusercontent.com/106274945/170971338-f65d6859-173c-435e-9af4-8bec154ef295.png)
+<br>![image](https://user-images.githubusercontent.com/106274945/170971338-f65d6859-173c-435e-9af4-8bec154ef295.png)
 * Website's payment portal – QR code scanner
 ![image](https://user-images.githubusercontent.com/106274945/170971353-181a6ba1-46b0-416d-a115-e5b74c80ca53.png)
 * Website's payment portal – Confirm payment
